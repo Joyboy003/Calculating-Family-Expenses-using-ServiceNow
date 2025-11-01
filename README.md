@@ -9,7 +9,7 @@ The goal is to help users make informed financial decisions and promote financia
 
 Source Video File 
 
-https://u.pcloud.link/publink/show?code=XZsVU95Zr2hXB2iqv3kkODd34igc0XtT9eBy
+[https://u.pcloud.link/publink/show?code=XZsVU95Zr2hXB2iqv3kkODd34igc0XtT9eBy](https://drive.google.com/file/d/1XB3lrr7fKoRnA00fYW1yPwkyISSW99vY/view?usp=drivesdk)
 
 ⚙️ Implementation Steps
 
@@ -140,13 +140,6 @@ Added a relationship query script to filter Daily Expenses records by matching d
 ![Image](https://github.com/user-attachments/assets/902a5a10-69ac-47ce-94eb-79d067c46c81)
 ![Image](https://github.com/user-attachments/assets/eb7d2612-dc43-4c87-b1b2-a12c04bebf3f)
 ![Image](https://github.com/user-attachments/assets/0b382309-f5b4-4793-8eb1-571a0a7f4977)
-
-
-🎥 Project Demo
-
-  https://drive.google.com/file/d/1QBwREnmyJ05jNzaiGI6bfL7UKO3tAfuj/view?usp=drivesdk
-
-
 
 
 
