@@ -8,8 +8,7 @@ Using the ServiceNow platform, this project provides an easy interface and ensur
 The goal is to help users make informed financial decisions and promote financial well-being.
 
 Source Video File 
-
-[https://u.pcloud.link/publink/show?code=XZsVU95Zr2hXB2iqv3kkODd34igc0XtT9eBy](https://drive.google.com/file/d/1XB3lrr7fKoRnA00fYW1yPwkyISSW99vY/view?usp=drivesdk)
+[https://drive.google.com/file/d/1XB3lrr7fKoRnA00fYW1yPwkyISSW99vY/view?usp=drivesdk]
 
 ⚙️ Implementation Steps
 
